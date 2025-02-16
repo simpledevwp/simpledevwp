@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Experienced WordPress Developer with 10+ years of expertise in SEO-driven design and development. Skilled in translating Adobe XD, Figma, and Photoshop designs into functional, responsive WordPress sites using Genesis Framework, and advanced custom fields. Proven track record in enhancing website performance, implementing custom functionalities, and optimizing for search engine visibility. Seeking a part-time role to apply my technical skills and collaborate in a growth-oriented environment.
+Experienced Web Developer with 10+ years of expertise in WordPress development, SEO, and digital advertising. Proven ability to create custom WordPress solutions, optimize websites for search engines, and manage successful Google Ads and Facebook ad campaigns. Adept at troubleshooting, implementing testing procedures, and providing ongoing support for system functionality. Eager to apply technical skills and collaborate in a dynamic environment that fosters innovation and professional growth.
 
 *   🌍  I'm based in Philippines
 *   🖥️  See my portfolio at [simpledevwp.site](http://www.simpledevwp.site/)
-*   ✉️  You can contact me at [simpledevwp@gmail.com](mailto:simpledevwp@gmail.com)
+*   ✉️  You can contact me at [n.evangelista.dev@gmail.com](mailto:n.evangelista.dev@gmail.com)
 *   🧠  I'm learning Python and React Js
 ### Skills 
 <p align="left">
